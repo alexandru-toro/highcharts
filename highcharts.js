@@ -107,7 +107,7 @@ var UNDEFINED,
 	seriesTypes = {};
 
 // The Highcharts namespace
-var Highcharts = win.Highcharts = win.Highcharts ? error(16, true) : {};
+var Highcharts = win.Highcharts = {};
 
 /**
  * Extend an object with the members of another
