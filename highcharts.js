@@ -55,7 +55,7 @@ var UNDEFINED,
 	noop = function () {},
 	charts = [],
 	PRODUCT = 'Highcharts',
-	VERSION = '3.0.10',
+	VERSION = '3.0.3',
 
 	// some constants for frequently used strings
 	DIV = 'div',
